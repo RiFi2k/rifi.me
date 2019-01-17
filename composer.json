@@ -1,0 +1,26 @@
+{
+  "name": "rifi2k/rifi.me",
+  "type": "project",
+  "license": "Unlicence",
+  "description": "Minimal nothing-ness",
+  "homepage": "https://rifi.me/",
+  "authors": [
+    {
+      "name": "Reilly Lowery",
+      "email": "reilly@rifi.me",
+      "homepage": "https://github.com/rifi2k"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/rifi2k/rifi.me/issues"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "require": {
+    "php": ">=7.1",
+    "composer/installers": "^1.4",
+    "vlucas/phpdotenv": "^2.0.1",
+    "oscarotero/env": "^1.1.0"
+  }
+}
